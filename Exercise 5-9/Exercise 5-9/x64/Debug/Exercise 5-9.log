@@ -1,0 +1,3 @@
+﻿  Exercise 5-9.cpp
+C:\Users\kardelenbicen\Source\Repos\Exercise 5-9\Exercise 5-9\Exercise 5-9.cpp(5,12): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'double'
+  Exercise 5-9.vcxproj -> C:\Users\kardelenbicen\Source\Repos\Exercise 5-9\x64\Debug\Exercise 5-9.exe
